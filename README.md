@@ -1,1 +1,1 @@
-# vesmirny-pozorovatel
+pekny vesmir
